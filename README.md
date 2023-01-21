@@ -6,9 +6,11 @@ This Collection comes from course below
 2. Hello World Mini Bootcamp (2022)
 
 Projects article list as shown below 
-
-1. Restaurant Database Creation & Analysis using SQL (SQLite)
-2. Pao Ying Chub Games (AKA rock paper scissors games)  : This part represent playable Rock-Paper-Scissors games written from R
-3. Basic Dataframe creation using R :  Dataframe Creation Demonstration using R
+1. Date-Time Conversion from Thai to English Date in Google Sheet 
+   (for More detail : https://medium.com/@puriwat_sangrawee/date-time-conversion-from-thai-to-english-date-in-google-sheet-fda75371458e)
+2. Restaurant Database Creation & Analysis using SQL (SQLite)
+  ( for more detail : https://medium.com/@puriwat_sangrawee/the-god-hands-restaurant-database-creation-analysis-using-sql-9561ed1559fb )
+3. Pao Ying Chub Games (AKA rock paper scissors games)  : This part represent playable Rock-Paper-Scissors games written from R
+4. Basic Dataframe creation using R :  Dataframe Creation Demonstration using R
 
 ---others will be updated soon ----
