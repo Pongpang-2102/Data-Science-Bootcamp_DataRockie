@@ -7,7 +7,7 @@ This Collection comes from course below
 
 Projects article list as shown below 
 
-1. Pao Ying Chub Games (AKA rock paper scissors games)  - This part represent playable Rock-Paper-Scissors games written from R
-2. Basic Dataframe creation using R
+1. Pao Ying Chub Games (AKA rock paper scissors games)  : This part represent playable Rock-Paper-Scissors games written from R
+2. Basic Dataframe creation using R :  Dataframe Creation Demonstration using R
 
 ---others will be updated soon ----
