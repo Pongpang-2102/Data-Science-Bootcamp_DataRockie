@@ -13,4 +13,4 @@ Projects article list as shown below
 3. Pao Ying Chub Games (AKA Rock-Paper-Scissors game)  : This part represent playable Rock-Paper-Scissors games written from R
 4. Basic Dataframe creation using R :  Dataframe Creation Demonstration using R
 
----others will be updated soon ----
+---other Project will be updated soon ----
