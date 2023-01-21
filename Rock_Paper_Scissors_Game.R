@@ -2,7 +2,7 @@
 # Author : Puriwat Sangrawee
 
 
-
+#-----------------------------------------------------------
 # step 1 : 
 # Welcome our new player
 welcome_player_f01 <- function(){
@@ -18,6 +18,7 @@ welcome_player_f01 <- function(){
   
 }
 
+#-----------------------------------------------------------
 # step 2 : 
  # create  function for  developer credit
  
@@ -28,7 +29,7 @@ welcome_player_f01 <- function(){
    cat("----------------------------------")
  }
 
-
+#-----------------------------------------------------------
  # step 3 : 
  # create a game rule function
  
@@ -49,7 +50,7 @@ welcome_player_f01 <- function(){
    
  }
 
- 
+ #-----------------------------------------------------------
  # Step 4
  # create a game body function
  
@@ -274,5 +275,7 @@ pao_ying_chup_game <- function(){
   
 
 }
+#-----------------------------------------------------------
+# Step 5 : Getting Started playing games
 
 pao_ying_chup_game()
